@@ -1,0 +1,23 @@
+{
+  "name": "electron-auto-update-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.0.3",
+    "electron-builder": "^23.0.3"
+  },
+  "dependencies": {
+    "electron-updater": "^5.0.1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/JeremyCarmona3/electron-auto-update-example.git/"
+  }
+}
